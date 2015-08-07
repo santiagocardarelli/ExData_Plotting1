@@ -1,3 +1,8 @@
+## The dataset file must be stored in the data folder in the Working Directory.
+
+Each separate .R file contains the code for generating the 4 different .png files as requested.
+
+
 ## Introduction
 
 This assignment uses data from
